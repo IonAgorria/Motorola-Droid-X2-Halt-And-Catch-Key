@@ -1,0 +1,5 @@
+daytona_hack.ko
+*.mod.c
+*.o
+*.cmd
+modules.order
